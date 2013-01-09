@@ -1,0 +1,10 @@
+syntax: glob
+build
+nbproject/private
+**~
+**.DS_Store
+\.orig\..*$
+\.orig$
+\.chg\..*$
+\.rej$
+\.conflict\~$
